@@ -6,20 +6,21 @@ Repositori ini berisi kumpulan projek yang saya selesaikan semasa mengikuti kuri
 
 Berikut adalah projek yang terdapat dalam repositori ini:
 
-1. **Audio Video Player**
-2. **Cat Blog Page**
-3. **Cat Photo App**
-4. **Fried Rice Recipe**
-5. **Heart Icon**
-6. **Introduction**
-7. **List Major Website**
-8. **Music Player**
-9. **Quincy's Job Tips Page**
-10. **Travel Agency Page**
-11. **Video Player**
-12. **Video Compilation Page**
-13. **XYZ Bookstore**
-14. **iframe Video Display**
+* **Audio Video Player**
+* **Cat Blog Page**
+* **Cat Photo App**
+* **Final Exam Table**
+* **Fried Rice Recipe**
+* **Heart Icon**
+* **Introduction**
+* **List Major Website**
+* **Music Player**
+* **Quincy's Job Tips Page**
+* **Travel Agency Page**
+* **Video Player**
+* **Video Compilation Page**
+* **XYZ Bookstore**
+* **iframe Video Display**
 
 ## Cara Menjalankan Projek
 
