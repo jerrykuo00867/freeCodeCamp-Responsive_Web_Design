@@ -9,6 +9,7 @@ Berikut adalah projek yang terdapat dalam repositori ini:
 * **Audio Video Player**
 * **Cat Blog Page**
 * **Cat Photo App**
+* **Coding Journey Blog Page**
 * **Final Exam Table**
 * **Fried Rice Recipe**
 * **Heart Icon**
