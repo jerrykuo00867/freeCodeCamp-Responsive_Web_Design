@@ -6,6 +6,7 @@ Repositori ini berisi kumpulan projek yang saya selesaikan semasa mengikuti kuri
 
 Berikut adalah projek yang terdapat dalam repositori ini:
 
+* **Audio Controls**
 * **Audio Video Player**
 * **Cat Blog Page**
 * **Cat Photo App**
