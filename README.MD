@@ -18,6 +18,7 @@ Berikut adalah projek yang terdapat dalam repositori ini:
 * **List Major Website**
 * **Music Player**
 * **Quincy's Job Tips Page**
+* **Tech Conference Schedule Table**
 * **Travel Agency Page**
 * **Video Player**
 * **Video Compilation Page**
