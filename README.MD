@@ -4,7 +4,7 @@ Repositori ini berisi kumpulan projek yang saya selesaikan semasa mengikuti kuri
 
 ## Projek
 
-Berikut adalah projek yang terdapat dalam repositori ini:
+Berikut adalah project yang dipandu oleh freeCodeCamp:
 
 * **Audio Controls**
 * **Audio Video Player**
@@ -24,6 +24,12 @@ Berikut adalah projek yang terdapat dalam repositori ini:
 * **Video Compilation Page**
 * **XYZ Bookstore**
 * **iframe Video Display**
+
+## Project Pribadi
+
+Berikut adalah project yang dibuat secara pribadi
+
+* **Panduan Dasar HTML**
 
 ## Cara Menjalankan Projek
 
