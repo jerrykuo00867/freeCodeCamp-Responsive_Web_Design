@@ -14,10 +14,10 @@
     <form>
         <fieldset>
             <legend>Data Pribadi</legend>
-            <input type="text" required placeholder="Contoh: Budi Santoso">
-            <input type="email" required>
-            <input type="rel" required>
-            <input type="date" required>
+            <p><input type="text" required placeholder="Contoh: Budi Santoso"></p>
+            <p><input type="email" required placeholder="Email"></p>
+            <p><input type="rel" required placeholder="Nomor Telepon"></p>
+            <p>Tanggal Lahir: <input type="date" required></p>
             <legend>Latar Belakang & Pilihan</legend>
             <select name="Pendidikan-Akhir">
                 <option value="Pilih Pendidikan">Pilih Pendidikan</option>
@@ -26,7 +26,9 @@
                 <option value="Sarjana (S1)">Sarjana (S1)</option>
                 <option value="Lainnya">Lainnya</option>
             </select>
-            <p>To Be Continue</p>
+            <p><input type="radio" name="kemampuan" id="pemula">Pemula Sekali</p>
+            <p><input type="radio" name="kemampuan" id="dasar">Tahu Dasar</p>
+            <p><input type="radio" name="kemampuan" id="menengahz">Menengah</p>
         </fieldset>
     </form>
 </body>
